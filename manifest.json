@@ -1,6 +1,7 @@
 {
   "name": "Github XP",
   "version": "5.03",
+  "author": "Sanil",
   "description": "Github <3 Microsoft!",
   "manifest_version": 2,
   "content_scripts": [
