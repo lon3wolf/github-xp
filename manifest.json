@@ -1,11 +1,7 @@
 {
   "name": "Github XP",
   "version": "5.03",
-<<<<<<< HEAD
-  "author": "Sanil",
-=======
-  "author": "none",
->>>>>>> bce9cd13204f4a449787c2817fb5574b4723b2e8
+  "author": "Not me",
   "description": "Github <3 Microsoft!",
   "manifest_version": 2,
   "content_scripts": [
