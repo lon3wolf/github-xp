@@ -10,7 +10,7 @@ Microsoft + GitHub = ❤️. Make it official by giving your GitHub experience s
 * click "Load Extensions", navigate to Chrome folder in the repository, click "Select folder"
 * Restart Edge
 
-![Screenshot of the extension](https://raw.githubusercontent.com/martenbjork/github-xp/master/screenshot.jpg)
+![Screenshot of the extension](https://github.com/lon3wolf/github-xp-for-Edge/blob/master/screenshot.jpg?raw=true)
 
 Helpful tips to make you a better developer:
 
